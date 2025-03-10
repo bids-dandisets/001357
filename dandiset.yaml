@@ -11,9 +11,10 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Kim, Taekjun; Namima, Tomoyuki; Pasupathy, Anitha (2025) High-Density Recording
-  Reveals Sparse Clusters (But Not Columns) for Shape and Texture Encoding in Macaque
-  V4 (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001357/draft
+citation: Kim, Taekjun; Namima, Tomoyuki; Pasupathy, Anitha; Kempkes, Erin; Zamarashkina,
+  Polina; Owen, Natalia (2025) High-Density Recording Reveals Sparse Clusters (But
+  Not Columns) for Shape and Texture Encoding in Macaque V4 (Version draft) [Data
+  set]. DANDI Archive. https://dandiarchive.org/dandiset/001357/draft
 contributor:
 - affiliation: []
   email: taekjunkim1223@gmail.com
@@ -36,9 +37,25 @@ contributor:
   - dcite:Author
   - dcite:ProjectLeader
   schemaKey: Person
+- includeInCitation: true
+  name: Kempkes, Erin
+  schemaKey: Person
+- includeInCitation: true
+  name: Zamarashkina, Polina
+  schemaKey: Person
+- includeInCitation: true
+  name: Owen, Natalia
+  schemaKey: Person
 dateCreated: '2025-03-10T17:25:35.044001+00:00'
-description: 'More detailed information associated with this dataset is described
-  in https://doi.org/10.1523/JNEUROSCI.1893-23.2024 '
+description: "We used high-density Neuropixels probes in two awake monkeys (one female
+  and one male) to characterize the shape and texture tuning of dozens of neurons
+  simultaneously. The shape set included 15 simple geometric shapes each presented
+  at eight different rotations in 45° increments, resulting in a total of 120 shape
+  stimuli. Shapes were filled with a uniform color, either darker or brighter than
+  the background luminance. The texture stimulus set was composed of 40 naturalistic
+  grayscale textures. Each texture image was presented in three versions: original,
+  contrast-reversed, or spectrally-matched noise\n\nMore detailed information associated
+  with this dataset is described in https://doi.org/10.1523/JNEUROSCI.1893-23.2024 "
 ethicsApproval: []
 id: DANDI:001357/draft
 identifier: DANDI:001357
