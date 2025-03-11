@@ -20,8 +20,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: surgical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 126766776
-  numberOfFiles: 53
+  numberOfBytes: 168297744
+  numberOfFiles: 74
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -44,14 +44,16 @@ contributor:
   - dcite:ContactPerson
   - dcite:DataManager
   schemaKey: Person
-- includeInCitation: true
+- email: t.namima@gmail.com
+  includeInCitation: true
   name: Namima, Tomoyuki
   roleName:
   - dcite:Author
   - dcite:Researcher
   - dcite:DataCollector
   schemaKey: Person
-- includeInCitation: true
+- email: pasupat@uw.edu
+  includeInCitation: true
   name: Pasupathy, Anitha
   roleName:
   - dcite:Author
@@ -79,7 +81,8 @@ description: "We used high-density Neuropixels probes in two awake monkeys (one 
 ethicsApproval: []
 id: DANDI:001357/draft
 identifier: DANDI:001357
-keywords: []
+keywords:
+- functional archietecture, monkey, neuropixels, object recognition, shape perception
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
