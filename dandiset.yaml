@@ -68,10 +68,22 @@ contributor:
 - includeInCitation: true
   name: Owen, Natalia
   schemaKey: Person
-- awardNumber: R01 EY018839, R01 EY029601, U01 NS131810-01, P30 EY01730, P51 OD010425
+- awardNumber: R01 EY018839, R01 EY029601, P30 EY01730
   identifier: ''
   includeInCitation: false
-  name: National Institute of Health
+  name: National Eye Institute
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: U01 NS131810-01
+  includeInCitation: false
+  name: National Institute of Neurological Disorders and Stroke
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: P51 OD010425
+  includeInCitation: false
+  name: National Institute OF Health
   roleName:
   - dcite:Funder
   schemaKey: Organization
