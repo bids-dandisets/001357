@@ -51,6 +51,7 @@ contributor:
   - dcite:Author
   - dcite:Researcher
   - dcite:DataCollector
+  - dcite:ContactPerson
   schemaKey: Person
 - email: pasupat@uw.edu
   includeInCitation: true
@@ -58,6 +59,7 @@ contributor:
   roleName:
   - dcite:Author
   - dcite:ProjectLeader
+  - dcite:ContactPerson
   schemaKey: Person
 - includeInCitation: true
   name: Kempkes, Erin
