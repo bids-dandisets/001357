@@ -1,0 +1,20 @@
+{
+    "Name": "High-Density Recording Reveals Sparse Clusters (But Not Columns) for Shape and Texture Encoding in Macaque V4",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "We used high-density Neuropixels probes in two awake monkeys (one female and one male) to characterize the shape and texture tuning of dozens of neurons simultaneously. The shape set included 15 simple geometric shapes each presented at eight different rotations in 45\u00b0 increments, resulting in a total of 120 shape stimuli. Shapes were filled with a uniform color, either darker or brighter than the background luminance. The texture stimulus set was composed of 40 naturalistic grayscale textures. Each texture image was presented in three versions: original, contrast-reversed, or spectrally-matched noise\n\nMore detailed information associated with this dataset is described in https://doi.org/10.1523/JNEUROSCI.1893-23.2024 ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Namima, Tomoyuki",
+        "Pasupathy, Anitha"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

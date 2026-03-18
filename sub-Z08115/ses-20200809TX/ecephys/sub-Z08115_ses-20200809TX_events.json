@@ -1,0 +1,46 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (measured from onset).",
+        "Units": "s"
+    },
+    "ses_ID": {
+        "Description": "session ID"
+    },
+    "pen_ID": {
+        "Description": "penetration ID"
+    },
+    "sub_ID": {
+        "Description": "subject ID"
+    },
+    "cond_ID": {
+        "Description": "stimulus condition ID"
+    },
+    "stim_ID": {
+        "Description": "texture stim ID"
+    },
+    "mode": {
+        "Description": "0 (normal), 1 (reversed), 2 (spectral noise)"
+    },
+    "pdOnTS": {
+        "Description": "photodiode ON time"
+    },
+    "pdOffTS": {
+        "Description": "photodiode OFF time"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "trials": "The 'trials' table in the NWB file."
+        },
+        "HED": {
+            "trials": "Experimental-trial"
+        }
+    },
+    "trials": {
+        "Description": "experimental trials"
+    }
+}
